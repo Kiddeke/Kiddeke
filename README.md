@@ -1,8 +1,8 @@
 ### Hey, I'm Grant 👋
 
-I'm a 29-year-old developer based in the US, and I'm passionate about automation and problem solving. 
+I'm a 29-year-old developer based in the US, and I'm passionate about backend finance automation and business rules. 
 
-- Check out my [business website](https://www.fullclearsolutions.com) to learn more about my work.
+- Check out my [Business Website](https://www.fullclearsolutions.com) to learn more about my work.
 - Explore my [VS Code Configuration](https://github.com/Kiddeke/vscode-settings) for development optimization.
 
 
