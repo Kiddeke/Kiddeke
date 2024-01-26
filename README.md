@@ -8,15 +8,15 @@ I'm a 29-year-old developer based in the US, and I'm passionate about backend fi
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `blazor`
- 
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `Vue.js` `Angular` `ASP.NET MVC` `Razor Pages`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` `GCP`
+**Version Control:** `Git` `GitLab` `Bitbucket` `Mercurial`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` `MongoDB` `C#` `VB`
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia` `Selenium`
+
+**Others:** `Scrum` `Confluence` `Jira` `Python` `Pandas` `Jupyter Notebooks` `Snowflake` `OneStream` `GCP BigQuery` `AWS Redshift` `AWS S3` `PowerBI` `Tableau` `TeamCity` `Rider` `PyCharm` `Visual Studio`
  
 ## ✨ Fun Facts 
 
