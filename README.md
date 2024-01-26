@@ -3,7 +3,7 @@
 I'm a 29-year-old developer based in the US, and I'm passionate about automation and problem solving. 
 
 - Check out my [business website](https://www.fullclearsolutions.com) to learn more about my work.
-- Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
+- Explore my [VS Code Configuration](https://github.com/Kiddeke/vscode-settings) for development optimization.
 
 
 ## 📦 Toolbox
