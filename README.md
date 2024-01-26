@@ -1,16 +1,23 @@
-### Hi there 👋
+Hey, I'm Grant 👋
+I'm a 29-year-old developer based in the US, and I'm passionate about problem solving and automation.
 
-<!--
-**Kiddeke/Kiddeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my website to learn more about my work.
+www.fullclearsolutions.com
+Explore my blog where I share insights and learnings.
 
-Here are some ideas to get you started:
+Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Version Control: Git GitLab Bitbucket
+
+Backend Development: Nest.js GraphQL Firebase
+
+Testing: Cypress Playwright Vitest Postman Insomnia
+
+Others: Storybook Zustand A11y Scrum Confluence Jira
+
+✨ Fun Facts
+Demon Slayer is my favorite anime.
+As a kid, I wanted to be an astronaut.
+I love using Mac after switching from Linux.
+📫 Contact
+For a quick response, DM me on Instagram or LinkedIn.
