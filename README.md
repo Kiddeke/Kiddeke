@@ -1,6 +1,6 @@
 ### Hey, I'm Grant 👋
 
-I'm a 30-year-old developer based in the US, and I'm passionate about backend finance automation and business rules. 
+I'm a 31-year-old developer based in the US, and I'm passionate about backend finance automation and business rules. 
 
 - Check out my [Business Website](https://www.fullclearsolutions.com) to learn more about my work.
 - Explore my [VS Code Configuration](https://github.com/Kiddeke/vscode-settings) for development optimization.
@@ -21,7 +21,7 @@ I'm a 30-year-old developer based in the US, and I'm passionate about backend fi
 ## ✨ Fun Facts 
 
 - Berserk is my favorite manga.
-- I have two big dogs.
+- I have a golden doodle named Albert.
 - I love cooking, creating and hiking on the Potomac River.
 
 ## 📫 Contact
